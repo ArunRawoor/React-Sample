@@ -15,6 +15,7 @@ import ReactFormValidation from './Component/ReactFormValidation';
 
 import ClassComponentExample from './Component/ClassComponentExample';
 import ParentComponent from './Component/ParentComponent';
+import NewComponent from './Component/NewComponent';
 
 
 
@@ -88,7 +89,8 @@ function App() {
      {/* <Counter/>  */}
 
 
-     <ClassComponentExample/>
+     {/* <ClassComponentExample/> */}
+     <NewComponent/>
    
     </div>
   );
