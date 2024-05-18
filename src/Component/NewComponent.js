@@ -3,7 +3,7 @@ import React from 'react'
 function NewComponent() {
   return (
     <div>
-      hiii this is the new component to check the github status
+      Just for checking 
     </div>
   )
 }
